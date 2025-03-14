@@ -61,8 +61,8 @@ loginForm.addEventListener("submit", (e) => {
     console.log("Username entered:", username);
     console.log("Password entered:", password);
 
-    const validUser = "ariyan2678";
-    const validPass = "2678";
+    const validUser = "darkkon";
+    const validPass = "1234";
 
     if (username === validUser && password === validPass) {
         console.log("Login successful! Redirecting...");
