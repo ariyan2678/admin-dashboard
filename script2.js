@@ -8,7 +8,7 @@ const loginBtn = document.querySelector("#login");
 const pwShowHide = document.querySelectorAll(".pw_hide");
 const loginForm = document.querySelector("#login-form");
 
-// تست اولیه برای مطمئن شدن از لود شدن المان‌ها
+// تست اولیه برای مطمئن شدن از لود شدن المان‌ه
 if (!loginForm) {
     console.error("Login form not found!");
 } else {
